@@ -220,7 +220,7 @@
     <Content Include="Scripts\sb-admin-2.js" />
     <Content Include="Scripts\tiny-slider.helper.ie8.js" />
     <Content Include="Scripts\tiny-slider.js" />
-    <Content Include="Views\Course\Index.cshtml" />
+    <Content Include="Views\Course\CourseDetail.cshtml" />
     <Content Include="Areas\Admin\Views\Shared\_AdminLayout.cshtml" />
     <Content Include="Areas\Admin\Views\AdminHome\Index.cshtml" />
     <Content Include="Areas\Student\Views\web.config" />
@@ -259,7 +259,7 @@
     <Content Include="Images\off-img\mobile-phone-1875813_960_720.webp" />
     <Content Include="Images\off-img\office-620822__340.webp" />
     <None Include="packages.config" />
-    <Content Include="Views\Course\CourseIndex.cshtml" />
+    <Content Include="Views\Course\Index.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
